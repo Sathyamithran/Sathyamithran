@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Sathyamithran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sathyamithran/Sathyamithran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Salesforce, Blockchain, AI and Theory of Computation.
+- 🌱 I’m currently learning LWC Salesforce, Blockchain DApp Development.
+- 🧐 I am also a Salesforce Developer you can view my profile in https://trailblazer.me/id/smithran.
+- 📫 How to reach me FACEBOOK on https://www.facebook.com/sathya.mithran.1/.
